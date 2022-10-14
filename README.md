@@ -3,6 +3,3 @@
 
 
 <a href="https://app.daily.dev/Malthe22"><img src="https://github.com/malthegram/malthegram/blob/main/devcard.svg" width="400" alt="Malthes Dev Card"/></a>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/MaltheGram)
